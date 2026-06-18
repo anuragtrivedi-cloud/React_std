@@ -1,0 +1,27 @@
+Components in React JS
+
+A Component is a reusable piece of UI (User Interface). React applications are built by combining multiple components.
+OR
+"A React Component is an independent and reusable piece of UI that returns JSX and can be used multiple times within an application."
+
+Think of components like LEGO blocks:
+Navbar → Component
+Login Form → Component
+Button → Component
+Footer → Component
+
+Types of Components
+1. Functional Components
+2. Class Components
+
+Component with Props
+Props are used to pass data from parent to child component.
+
+Important Points
+
+ Props are read-only (cannot be modified by the child).
+
+ Used to send data Parent → Child.
+
+Props can be:
+String,Number,Boolean,Array,Object,Function
